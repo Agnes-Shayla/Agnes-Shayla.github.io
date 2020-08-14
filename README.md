@@ -2,9 +2,10 @@
 ## 编译源码：
 lean版编译：[https://github.com/coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)  
 官方Openwrt编译：[https://github.com/openwrt/openwrt](https://github.com/openwrt/openwrt)  
-官方OpenWrt现成固件：[https://downloads.openwrt.org/releases/19.07.3/](https://downloads.openwrt.org/releases/19.07.3/) （根据cpu型号\架构选择固件）
+官方OpenWrt现成固件：[https://downloads.openwrt.org/releases/19.07.3/](https://downloads.openwrt.org/releases/19.07.3/) （根据cpu型号\架构选择固件）  
+bilibili自录教程：[https://www.bilibili.com/video/BV19k4y1m782/](https://www.bilibili.com/video/BV19k4y1m782/)
 ## 所需工具：
-Vmware、Xshell、WinSCP、神奇粉红（全局）
+SD卡格式化工具、win32diskmager、Vmware、Xshell、WinSCP、神奇粉红（全局）
 ## 参考网址：
 eSir：[https://www.youtube.com/channel/UCOhkliOps3IS48ly-MgPC2A](https://www.youtube.com/channel/UCOhkliOps3IS48ly-MgPC2A)  
 十年老程：[https://space.bilibili.com/408687874](https://space.bilibili.com/408687874)  
